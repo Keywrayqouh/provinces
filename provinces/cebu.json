@@ -1,0 +1,9 @@
+{
+    "image1":"/images/ilovecebu.jpg",
+     "image2":"/images/img1.jpeg",
+     "image3":"/images/sinulog.jpg",
+    "name_of_province":"Province of Cebu",
+    "groupOfIsland":"Visayas",
+    "population":"2,938,982",
+     "delicacies":["chicharon","lechon","otap"]
+ }
